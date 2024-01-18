@@ -16,5 +16,5 @@ For Python:
 3. Open your new project with a command prompt
 4. Create a new virtual environment by running `python -m venv venv` (optional but recommended)
 5. Download and install all the needed modules by running `pip install -r requirements.txt`
-6. Copy .env.sample into .env and update its values from the Twilio section above step 3
+6. Copy `.env.sample` into `.env` and update its values from the Twilio section above step 3
 7. Run `python test.py`
