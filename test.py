@@ -10,8 +10,8 @@ load_dotenv()
 
 account_sid = os.environ['TWILIO_ACCOUNT_SID']
 auth_token = os.environ['TWILIO_AUTH_TOKEN']
-twilio_phone = "+18554751750"
-receiver_phone = "+14105416242"
+twilio_phone = os.environ['TWILIO_PHONE']
+receiver_phone = os.environ['RECEIVER_PHONE']
 
 client = Client(account_sid, auth_token)
 
