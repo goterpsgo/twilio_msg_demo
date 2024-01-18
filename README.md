@@ -12,7 +12,7 @@ For Twilio:
 
 For Python:
 1. Install python from https://www.python.org/downloads/
-2. Clone this repo
+2. Clone this repo: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 3. Open your new project with a command prompt
 4. Create a new virtual environment by running `python -m venv venv` (optional but recommended)
 5. Download and install all the needed modules by running `pip install -r requirements.txt`
